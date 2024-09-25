@@ -12,3 +12,6 @@ arquivos; [ ]
 4. Criar uma nova Branch; [ ]
 5. Realizar um Pull Request e Merge; [ ]
 7. Criar nosso primeiro Fork; [ ]
+
+
+Realizando Alteração de testes para o nosso repositório.
